@@ -14,7 +14,7 @@ Python 3, OpenCV 4(pip install opencv-python ), Numpy(pip install numpy), Matplo
 ![Image](https://github.com/Swarupa567/Video-Capture-Using-OpenCV-and-Python/blob/master/image/Capture.PNG)
 
 
-2.After this,use VideoWriter Method to capture our own video.That's it .You are done with your basic OpenCV project. 
+2.After this,use VideoWriter Method is used to capture our own video.That's it .You are done with your basic OpenCV project. 
 
 
 
