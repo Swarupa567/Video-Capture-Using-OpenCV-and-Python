@@ -11,9 +11,8 @@ Python 3, OpenCV 4(pip install opencv-python ), Numpy(pip install numpy), Matplo
 # Example:
 1.First we have tried to capture an image in color and Gray format.
 
-<p align="center">
-  <img src="C:\Users\LENOVO\Desktop\Capture.png" width="350" title="hover text">
-</p>
+![ScreenShot](C:/Desktop/Capture.jpg)
+
 
 2.After this,use VideoWriter Method to capture our own video.That's it .You are done with your basic OpenCV project. 
 
