@@ -1,7 +1,10 @@
 # Video-Capture-Using-OpenCV-and-Python
 
 ## Requirements
-Python 3, OpenCV 4(pip install opencv-python ), Numpy(pip install numpy), MatplotLib( pip install matplotlib)
+Python 3
+OpenCV 4(pip install opencv-python )
+Numpy(pip install numpy)
+MatplotLib( pip install matplotlib)
 
 # How to Use?
 
