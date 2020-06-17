@@ -6,6 +6,7 @@ Python 3, OpenCV 4(pip install opencv-python ), Numpy(pip install numpy), Matplo
 # How to Use?
 
 1.Clone or Download Repo
+
 2.Use the above code to capture your video.
 
 # Example:
